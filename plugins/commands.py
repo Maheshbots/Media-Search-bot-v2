@@ -66,8 +66,8 @@ async def start(bot, cmd):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('Search again', switch_inline_query_current_chat=''),
-                        InlineKeyboardButton('More Bots', url='https://t.me/ErrorXbotz')
+                        InlineKeyboardButton('𝚂𝙴𝙰𝚁𝙲𝙷 𝙰𝙷𝙰𝙸𝙽 🔎', switch_inline_query_current_chat=''),
+                        InlineKeyboardButton('𝙼𝙾𝚁𝙴 𝙼𝙾𝚅𝙸𝙴𝚂 🎥', url='https://t.me/ErrorXbotz')
                     ]
                     ]
                 await bot.send_cached_media(
